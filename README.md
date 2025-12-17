@@ -11,3 +11,4 @@ Features:
 -   Target specific groups via configuration.
 -   Multi-threaded scanning for speed.
 -   "Nuke" functionality to delete selected events.
+<img width="916" height="797" alt="image" src="https://github.com/user-attachments/assets/cfa3ac85-aac6-4cff-9cf0-2e1f13e79fce" />
