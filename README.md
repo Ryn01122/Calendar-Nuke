@@ -2,9 +2,6 @@
 Google workspace tool to remove malicious calendar invites from your domain.
 
 
-CALENDAR NUKE TOOL
-==================
-
 Overview
 --------
 This tool allows Google Workspace Admins to search for and delete malicious or unwanted calendar events across their domain. It is useful for removing phishing invites or spam events from multiple users' calendars simultaneously.
