@@ -1,0 +1,14 @@
+{
+    "service_account_file": "service_account.json",
+    "delegated_user": "admin@yourdomain.com",
+    "target_groups": [
+        {
+            "name": "Staff",
+            "domain": "staff.yourdomain.com"
+        },
+        {
+            "name": "Students",
+            "domain": "students.yourdomain.com"
+        }
+    ]
+}

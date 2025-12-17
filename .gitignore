@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+
+# Secrets
+service_account.json
+config.json
+
+# Logs
+*.log
